@@ -200,6 +200,10 @@
   id: KiseliiumDream
   background: /Textures/LobbyScreens/Fobos/kiseliiumDream.webp
 
+- type: lobbyBackground
+  id: CkafNewYear
+  background: /Textures/LobbyScreens/Fobos/ckaf_new_year.webp
+
 # Soyuz
 
 # - type: lobbyBackground
