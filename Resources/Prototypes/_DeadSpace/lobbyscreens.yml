@@ -197,12 +197,28 @@
   background: /Textures/LobbyScreens/Fobos/doner_family_selen.webp
 
 - type: lobbyBackground
-  id: KiseliiumDream
-  background: /Textures/LobbyScreens/Fobos/kiseliiumDream.webp
+  id: Kiseliium1
+  background: /Textures/LobbyScreens/Fobos/kiseliium1.webp
 
 - type: lobbyBackground
-  id: CkafNewYear
-  background: /Textures/LobbyScreens/Fobos/ckaf_new_year.webp
+  id: Kiseliium2
+  background: /Textures/LobbyScreens/Fobos/kiseliium2.webp
+
+- type: lobbyBackground
+  id: Kiseliium3
+  background: /Textures/LobbyScreens/Fobos/kiseliium3.webp
+
+- type: lobbyBackground
+  id: Kiseliium4
+  background: /Textures/LobbyScreens/Fobos/kiseliium4.webp
+
+- type: lobbyBackground
+  id: MKNEWYEAR
+  background: /Textures/LobbyScreens/Fobos/MK_NEW_YEAR.webp
+
+- type: lobbyBackground
+  id: HappyHolydays
+  background: /Textures/LobbyScreens/Fobos/happy_holidays.webp
 
 # Soyuz
 
